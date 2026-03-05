@@ -1,6 +1,6 @@
 cask "logos-keyboard" do
-  version "0.1"
-  sha256 "9e27b1992fccc7a3e9b62f91c24cbadc840fb1e0b120194337d92a000d1488ae"
+  version "0.3"
+  sha256 "22eee79ff1ba3822d1d78f5c45c88eb1fa30a03c466b24074c1afb4109f5876a"
 
   url "https://github.com/jazzz/logos-keyboard/releases/download/v0.1/LogosKeyboard.bundle.zip"
   name "Logos Keyboard"
